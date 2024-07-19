@@ -9,10 +9,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hasanyasir24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hasanyasir24" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohammedyasirhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedyasirhasan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohammed-yasirhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedyasirhasan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/myh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="myh" height="30" width="40" /></a>
 <a href="https://instagram.com/mohammed_yasir_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammed_yasir_hasan" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/myh's association" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="myh's association" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@myhassociation" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="myh's association" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
