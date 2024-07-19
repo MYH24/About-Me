@@ -1,6 +1,6 @@
 # About-Me
 <h1 align="center">Hi 👋, I'm MYH</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">Explore this repository to discover innovative projects ranging from robust Employee CRUD applications to intuitive UI/UX designs for enhancing digital experiences.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myh24&label=Profile%20views&color=0e75b6&style=flat" alt="myh24" /> </p>
 
