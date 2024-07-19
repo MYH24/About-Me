@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   push:
     branches:
-      - main
+      - workflow
   workflow_dispatch:
 
 jobs:
